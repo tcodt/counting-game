@@ -1,6 +1,6 @@
 # Counting Game for Grade 1 🎲
 
-![Game Screenshot](/images/game-1/screenshot.png) <!-- Add a screenshot later -->
+![Game Screenshot](/public/images/game-1/screenshot.png) <!-- Add a screenshot later -->
 
 An interactive counting game designed for first-grade students, built with React, TypeScript, Tailwind CSS, and Framer Motion.
 
